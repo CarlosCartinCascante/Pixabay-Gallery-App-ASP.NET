@@ -1,0 +1,27 @@
+﻿@model List<Pixabay_Gallery_App.Models.Image>  
+
+@{
+    ViewData["Title"] = "Gallery Page";
+}
+
+<form class="d-flex my-3" role="search" action="/Gallery/Index">
+    <input class="form-control me-2" type="search" placeholder="Search" name="query" aria-label="Search">
+    <button class="btn btn-outline-success" type="submit">Search</button>
+</form>
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    @{
+        foreach (Image img in Model)
+        {
+                  <div class="col">
+                    <div class="card h-100">
+                      <img src="@img.WebFormatURL" class="card-img-top mx-auto" alt="@img.Type" style="width: 14em; height: 14em; object-fit: cover;">
+                      <div class="card-body">
+                        <h5 class="card-title">@img.Type</h5>
+                        <p class="card-text">Likes: @img.Likes</p>
+                      </div>
+                    </div>
+                  </div>
+        }
+    }
+</div>

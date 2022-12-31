@@ -1,0 +1,28 @@
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\bin\Debug\net6.0\appsettings.json
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\bin\Debug\net6.0\Pixabay Gallery App.staticwebassets.runtime.json
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\bin\Debug\net6.0\Pixabay Gallery App.exe
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\bin\Debug\net6.0\Pixabay Gallery App.deps.json
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\bin\Debug\net6.0\Pixabay Gallery App.runtimeconfig.json
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\bin\Debug\net6.0\Pixabay Gallery App.dll
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\bin\Debug\net6.0\Pixabay Gallery App.pdb
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\obj\Debug\net6.0\Pixabay Gallery App.csproj.AssemblyReference.cache
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\obj\Debug\net6.0\Pixabay Gallery App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\obj\Debug\net6.0\Pixabay Gallery App.AssemblyInfoInputs.cache
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\obj\Debug\net6.0\Pixabay Gallery App.AssemblyInfo.cs
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\obj\Debug\net6.0\Pixabay Gallery App.csproj.CoreCompileInputs.cache
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\obj\Debug\net6.0\Pixabay Gallery App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\obj\Debug\net6.0\Pixabay Gallery App.RazorAssemblyInfo.cache
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\obj\Debug\net6.0\Pixabay Gallery App.RazorAssemblyInfo.cs
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\obj\Debug\net6.0\scopedcss\bundle\Pixabay Gallery App.styles.css
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\obj\Debug\net6.0\scopedcss\projectbundle\Pixabay Gallery App.bundle.scp.css
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\obj\Debug\net6.0\Pixabay Gallery App.dll
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\obj\Debug\net6.0\refint\Pixabay Gallery App.dll
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\obj\Debug\net6.0\Pixabay Gallery App.pdb
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\obj\Debug\net6.0\Pixabay Gallery App.genruntimeconfig.cache
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\obj\Debug\net6.0\ref\Pixabay Gallery App.dll
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ala53\OneDrive\Escritorio\REST API .NET\Pixabay-Gallery-App-ASP.NET\Pixabay Gallery App\Pixabay Gallery App\obj\Debug\net6.0\Pixabay Gallery App.csproj.CopyComplete
